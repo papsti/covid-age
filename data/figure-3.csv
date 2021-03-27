@@ -1,0 +1,307 @@
+age_group,outcome,count
+0-1,hospitalization,47
+0-1,ICU admission,3
+0-1,intubation,1
+0-1,ventilation,1
+0-1,"death, no hospitalization",1
+0-1,death and hospitalization,0
+2-3,hospitalization,16
+2-3,ICU admission,1
+2-3,intubation,1
+2-3,ventilation,0
+2-3,"death, no hospitalization",0
+2-3,death and hospitalization,0
+4-5,hospitalization,6
+4-5,ICU admission,2
+4-5,intubation,3
+4-5,ventilation,0
+4-5,"death, no hospitalization",0
+4-5,death and hospitalization,0
+6-7,hospitalization,3
+6-7,ICU admission,1
+6-7,intubation,2
+6-7,ventilation,0
+6-7,"death, no hospitalization",0
+6-7,death and hospitalization,0
+8-9,hospitalization,4
+8-9,ICU admission,0
+8-9,intubation,0
+8-9,ventilation,0
+8-9,"death, no hospitalization",0
+8-9,death and hospitalization,0
+10-11,hospitalization,8
+10-11,ICU admission,4
+10-11,intubation,2
+10-11,ventilation,0
+10-11,"death, no hospitalization",0
+10-11,death and hospitalization,0
+12-13,hospitalization,10
+12-13,ICU admission,5
+12-13,intubation,1
+12-13,ventilation,1
+12-13,"death, no hospitalization",0
+12-13,death and hospitalization,0
+14-15,hospitalization,11
+14-15,ICU admission,0
+14-15,intubation,4
+14-15,ventilation,0
+14-15,"death, no hospitalization",0
+14-15,death and hospitalization,0
+16-17,hospitalization,17
+16-17,ICU admission,2
+16-17,intubation,5
+16-17,ventilation,0
+16-17,"death, no hospitalization",0
+16-17,death and hospitalization,0
+18-19,hospitalization,25
+18-19,ICU admission,1
+18-19,intubation,7
+18-19,ventilation,2
+18-19,"death, no hospitalization",1
+18-19,death and hospitalization,0
+20-21,hospitalization,51
+20-21,ICU admission,2
+20-21,intubation,6
+20-21,ventilation,2
+20-21,"death, no hospitalization",0
+20-21,death and hospitalization,2
+22-23,hospitalization,46
+22-23,ICU admission,2
+22-23,intubation,7
+22-23,ventilation,3
+22-23,"death, no hospitalization",1
+22-23,death and hospitalization,1
+24-25,hospitalization,63
+24-25,ICU admission,8
+24-25,intubation,2
+24-25,ventilation,0
+24-25,"death, no hospitalization",0
+24-25,death and hospitalization,1
+26-27,hospitalization,63
+26-27,ICU admission,9
+26-27,intubation,7
+26-27,ventilation,4
+26-27,"death, no hospitalization",0
+26-27,death and hospitalization,2
+28-29,hospitalization,89
+28-29,ICU admission,5
+28-29,intubation,8
+28-29,ventilation,3
+28-29,"death, no hospitalization",0
+28-29,death and hospitalization,1
+30-31,hospitalization,100
+30-31,ICU admission,4
+30-31,intubation,9
+30-31,ventilation,2
+30-31,"death, no hospitalization",2
+30-31,death and hospitalization,2
+32-33,hospitalization,106
+32-33,ICU admission,6
+32-33,intubation,10
+32-33,ventilation,4
+32-33,"death, no hospitalization",0
+32-33,death and hospitalization,2
+34-35,hospitalization,104
+34-35,ICU admission,9
+34-35,intubation,15
+34-35,ventilation,3
+34-35,"death, no hospitalization",2
+34-35,death and hospitalization,3
+36-37,hospitalization,91
+36-37,ICU admission,13
+36-37,intubation,7
+36-37,ventilation,3
+36-37,"death, no hospitalization",2
+36-37,death and hospitalization,1
+38-39,hospitalization,118
+38-39,ICU admission,14
+38-39,intubation,6
+38-39,ventilation,6
+38-39,"death, no hospitalization",3
+38-39,death and hospitalization,2
+40-41,hospitalization,109
+40-41,ICU admission,11
+40-41,intubation,8
+40-41,ventilation,9
+40-41,"death, no hospitalization",2
+40-41,death and hospitalization,4
+42-43,hospitalization,104
+42-43,ICU admission,15
+42-43,intubation,6
+42-43,ventilation,3
+42-43,"death, no hospitalization",1
+42-43,death and hospitalization,3
+44-45,hospitalization,139
+44-45,ICU admission,21
+44-45,intubation,15
+44-45,ventilation,7
+44-45,"death, no hospitalization",2
+44-45,death and hospitalization,10
+46-47,hospitalization,181
+46-47,ICU admission,22
+46-47,intubation,17
+46-47,ventilation,10
+46-47,"death, no hospitalization",1
+46-47,death and hospitalization,7
+48-49,hospitalization,177
+48-49,ICU admission,32
+48-49,intubation,31
+48-49,ventilation,21
+48-49,"death, no hospitalization",6
+48-49,death and hospitalization,19
+50-51,hospitalization,197
+50-51,ICU admission,27
+50-51,intubation,30
+50-51,ventilation,19
+50-51,"death, no hospitalization",7
+50-51,death and hospitalization,16
+52-53,hospitalization,244
+52-53,ICU admission,40
+52-53,intubation,34
+52-53,ventilation,32
+52-53,"death, no hospitalization",6
+52-53,death and hospitalization,27
+54-55,hospitalization,252
+54-55,ICU admission,36
+54-55,intubation,36
+54-55,ventilation,26
+54-55,"death, no hospitalization",9
+54-55,death and hospitalization,29
+56-57,hospitalization,294
+56-57,ICU admission,44
+56-57,intubation,43
+56-57,ventilation,42
+56-57,"death, no hospitalization",24
+56-57,death and hospitalization,31
+58-59,hospitalization,304
+58-59,ICU admission,36
+58-59,intubation,36
+58-59,ventilation,29
+58-59,"death, no hospitalization",21
+58-59,death and hospitalization,42
+60-61,hospitalization,326
+60-61,ICU admission,51
+60-61,intubation,41
+60-61,ventilation,45
+60-61,"death, no hospitalization",24
+60-61,death and hospitalization,56
+62-63,hospitalization,386
+62-63,ICU admission,68
+62-63,intubation,57
+62-63,ventilation,48
+62-63,"death, no hospitalization",26
+62-63,death and hospitalization,79
+64-65,hospitalization,344
+64-65,ICU admission,60
+64-65,intubation,46
+64-65,ventilation,39
+64-65,"death, no hospitalization",31
+64-65,death and hospitalization,84
+66-67,hospitalization,364
+66-67,ICU admission,52
+66-67,intubation,52
+66-67,ventilation,45
+66-67,"death, no hospitalization",36
+66-67,death and hospitalization,95
+68-69,hospitalization,346
+68-69,ICU admission,61
+68-69,intubation,38
+68-69,ventilation,32
+68-69,"death, no hospitalization",51
+68-69,death and hospitalization,94
+70-71,hospitalization,413
+70-71,ICU admission,57
+70-71,intubation,59
+70-71,ventilation,34
+70-71,"death, no hospitalization",60
+70-71,death and hospitalization,134
+72-73,hospitalization,450
+72-73,ICU admission,57
+72-73,intubation,59
+72-73,ventilation,38
+72-73,"death, no hospitalization",80
+72-73,death and hospitalization,141
+74-75,hospitalization,444
+74-75,ICU admission,57
+74-75,intubation,44
+74-75,ventilation,30
+74-75,"death, no hospitalization",89
+74-75,death and hospitalization,146
+76-77,hospitalization,455
+76-77,ICU admission,44
+76-77,intubation,37
+76-77,ventilation,32
+76-77,"death, no hospitalization",122
+76-77,death and hospitalization,158
+78-79,hospitalization,478
+78-79,ICU admission,63
+78-79,intubation,38
+78-79,ventilation,23
+78-79,"death, no hospitalization",142
+78-79,death and hospitalization,184
+80-81,hospitalization,550
+80-81,ICU admission,42
+80-81,intubation,26
+80-81,ventilation,21
+80-81,"death, no hospitalization",154
+80-81,death and hospitalization,192
+82-83,hospitalization,560
+82-83,ICU admission,27
+82-83,intubation,23
+82-83,ventilation,23
+82-83,"death, no hospitalization",223
+82-83,death and hospitalization,248
+84-85,hospitalization,584
+84-85,ICU admission,29
+84-85,intubation,15
+84-85,ventilation,18
+84-85,"death, no hospitalization",249
+84-85,death and hospitalization,229
+86-87,hospitalization,564
+86-87,ICU admission,27
+86-87,intubation,12
+86-87,ventilation,10
+86-87,"death, no hospitalization",324
+86-87,death and hospitalization,239
+88-89,hospitalization,535
+88-89,ICU admission,29
+88-89,intubation,8
+88-89,ventilation,10
+88-89,"death, no hospitalization",354
+88-89,death and hospitalization,241
+90-91,hospitalization,515
+90-91,ICU admission,19
+90-91,intubation,4
+90-91,ventilation,6
+90-91,"death, no hospitalization",356
+90-91,death and hospitalization,259
+92-93,hospitalization,435
+92-93,ICU admission,8
+92-93,intubation,0
+92-93,ventilation,6
+92-93,"death, no hospitalization",339
+92-93,death and hospitalization,201
+94-95,hospitalization,272
+94-95,ICU admission,8
+94-95,intubation,2
+94-95,ventilation,2
+94-95,"death, no hospitalization",306
+94-95,death and hospitalization,131
+96-97,hospitalization,127
+96-97,ICU admission,3
+96-97,intubation,0
+96-97,ventilation,0
+96-97,"death, no hospitalization",189
+96-97,death and hospitalization,66
+98-99,hospitalization,82
+98-99,ICU admission,2
+98-99,intubation,0
+98-99,ventilation,0
+98-99,"death, no hospitalization",129
+98-99,death and hospitalization,41
+100+,hospitalization,55
+100+,ICU admission,1
+100+,intubation,0
+100+,ventilation,0
+100+,"death, no hospitalization",100
+100+,death and hospitalization,30
