@@ -1,6 +1,6 @@
 # README
 
-This repository includes data and code required to reproduce the figures from [Papst *et al.* 2021](https://doi.org/10.1101/2020.09.01.20186395).
+This repository includes data and code required to reproduce the figures from [Papst *et al.* 2021](https://doi.org/10.1186/s12889-021-10611-4).
 
 The data files and dictionary are provided in the `data` subdirectory. The plotting code is in the `figure-scripts` subdirectory. To run a figure script from the command line:
 
@@ -13,7 +13,7 @@ This command will generate `figure-1.pdf` (in the `figure-scripts` subdirectory)
 
 ## Paper citation
 
-Papst I, Li M, Champredon D, Bolker BM, Dushoff J, Earn DJD. Age-dependence of healthcare interventions for COVID-19 in Ontario, Canada. *medRxiv*. 2020 Nov 30. DOI: [10.1101/2020.09.01.20186395](https://doi.org/10.1101/2020.09.01.20186395).
+Papst, I., Li, M., Champredon, D. _et al_. Age-dependence of healthcare interventions for COVID-19 in Ontario, Canada. _BMC Public Health_ *21*, 706 (2021). DOI: [10.1186/s12889-021-10611-4](https://doi.org/10.1186/s12889-021-10611-4)
 
 ## Session information
 
