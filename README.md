@@ -13,7 +13,7 @@ This command will generate `figure-1.pdf` (in the `figure-scripts` subdirectory)
 
 ## Paper citation
 
-Papst, I., Li, M., Champredon, D. _et al_. Age-dependence of healthcare interventions for COVID-19 in Ontario, Canada. _BMC Public Health_ *21*, 706 (2021). DOI: [10.1186/s12889-021-10611-4](https://doi.org/10.1186/s12889-021-10611-4)
+Papst, I., Li, M., Champredon, D. _et al_. Age-dependence of healthcare interventions for COVID-19 in Ontario, Canada. _BMC Public Health_ **21**, 706 (2021). DOI: [10.1186/s12889-021-10611-4](https://doi.org/10.1186/s12889-021-10611-4)
 
 ## Session information
 
